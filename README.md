@@ -1,2 +1,18 @@
-# admin-panel-finder
-Web site admin panel finder.
+## Admin Panel Finder
+With this tool you can find Admin Panels of Websites!
+
+**Usage:**
+First we need to install the tool.
+
+
+For install:
+
+    git clone URL
+
+
+After that we can run the tool with these code:
+
+    cd admin-panel-finder
+    python3 finder.py
+
+**NOW YOU CAN USE THE TOOL :)**
