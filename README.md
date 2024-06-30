@@ -7,7 +7,7 @@ First we need to install the tool.
 
 For install:
 
-    git clone URL
+    git clone [URL](https://github.com/MAMOSKO/admin-panel-finder.git)
 
 
 After that we can run the tool with these code:
